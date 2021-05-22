@@ -8,7 +8,7 @@
   </a>
 </p>
 
-“Selenium_Expedia” Is designed to show basic web test automation . 
+“Selenium_Example” Is designed to show web test automation. 
 
 Rest of readme coming soon!!!
 
