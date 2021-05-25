@@ -3,7 +3,7 @@
   <a href="https://Oso.com/">
     <img
       alt="Oso"
-      src="http://https://github.com/OsoSuerte/Logizomechanophobia/blob/master/Osos%20profile.png" width="300" height="300" 
+      src="https://github.com/OsoSuerte/Logizomechanophobia/blob/master/Osos%20profile.png" width="300" height="300" 
     />
   </a>
 </p>
