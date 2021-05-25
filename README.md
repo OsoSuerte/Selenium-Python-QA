@@ -3,7 +3,7 @@
   <a href="https://github.com/OsoSuerte/Selenium-Python-QA/blob/main/osoSurte.png">
     <img
       alt="Oso"
-      src="https://github.com/OsoSuerte/Selenium-Python-QA/commit/28a8fa15b6ed3ccffc2d6e97a343c8b03f63b0b8" width="192" height="120" 
+      src="https://github.com/OsoSuerte/Selenium-Python-QA/blob/main/osoSurte.png" width="192" height="120" 
     />
   </a>
 </p>
