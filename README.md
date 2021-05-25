@@ -1,14 +1,14 @@
 <!--lint disable no-literal-urls-->
 <p align="center">
-  <a href="https://github.com/OsoSuerte/Selenium-Python-QA/blob/main/osoSurte.png">
+  <a href="https://Oso.com/">
     <img
       alt="Oso"
-      src="https://github.com/OsoSuerte/Logizomechanophobia/blob/master/Osos%20profile.png" width="300" height="300" 
+      src="http://https://github.com/OsoSuerte/Logizomechanophobia/blob/master/Osos%20profile.png" width="300" height="300" 
     />
   </a>
 </p>
 
-â€œSelenium_Exampleâ€ Is designed to show web test automation. 
+“Selenium_Example” Is designed to show web test automation. 
 
 Rest of readme coming soon!!!
 
